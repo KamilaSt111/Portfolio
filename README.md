@@ -26,8 +26,14 @@ Github
 # Certificates
 - ISTQBT
 # Courses
- - [Podstawy sql](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)
+ - [Sql](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)
  - [API HTTP](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http)
- - [TESTOWANIE MANUALNE W PRAKTYCE ](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji)
- - https://www.pluralsight.com/?fbclid=IwAR2iTTDkQIx4ifKtzjDpMbbGaaT-ig7rMM-spI7wT8MmV6ptQ8db0n3qSas
- - 
+ - [TESTING MANUAL](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji)
+ - [Kurs Git by Maciej Aniserowicz](https://kursgita.pl/)
+# Books
+- A. Roman - Certyfikowany tester ISTQB. Poziom podstawowy
+- 
+# Webinars
+- GeekON - praktyczne ćwiczenie SQL
+- Szkoła testera - podstawy testowania
+# My projects
