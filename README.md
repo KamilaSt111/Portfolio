@@ -5,8 +5,7 @@ Recently I have started to interest of software testing.
 My goal is to develop testing knowlage and technical skills. 
 On this site I would like to share my all gained experience from personal studies and researches
 # Tools 
-Jing - Screen capture software
-Postman - Testing tool for REST API
+[Postman] (https://www.postman.com/)
 Jira, Trello - Issue tracking and project management tool for developers
 Selenium IDE - Open source record and playback test automation for the web
 Bug Magnet - Exploratory testing assistant for Chrome and Firefox
