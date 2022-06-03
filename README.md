@@ -32,7 +32,7 @@ Github
  - [Kurs Git by Maciej Aniserowicz](https://kursgita.pl/)
 # Books
 - A. Roman - Certyfikowany tester ISTQB. Poziom podstawowy
-- 
+- J. Gennick - SQL, Leksykon kieszonkowy
 # Webinars
 - GeekON - praktyczne ćwiczenie SQL
 - Szkoła testera - podstawy testowania
