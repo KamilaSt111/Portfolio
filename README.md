@@ -38,5 +38,7 @@ Github
 # My projects
 
 Projekt zawiera testowanie formularza rejestracji na stronie (https://sklep.pgg.pl/). 
+
 W pliku SCENARIUSZ TESTOWY znajdują się szczegółowe informacje o teście.
-Przypadki testowe zawarte są w pliku PrzypadkiTestowe.xlsx
+
+Przypadki testowe zawarte są w pliku PrzypadkiTestowe.xlsx.
